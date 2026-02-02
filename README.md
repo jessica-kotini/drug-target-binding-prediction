@@ -39,11 +39,10 @@ The full workflow is implemented in a Jupyter notebook.
 - Jupyter Notebook  
 
 
-'''## Project Structure
+## Project Structure
 notebooks/   # Model development and experiments
 data/        # Data (not included or lightly sampled)
 results/     # Outputs and figures
-'''
 
 
 ---
