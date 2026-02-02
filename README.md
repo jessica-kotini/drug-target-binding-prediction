@@ -39,20 +39,10 @@ The full workflow is implemented in a Jupyter notebook.
 - Jupyter Notebook  
 
 
-## Project Structure
-notebooks/   # Model development and experiments
-data/        # Data (not included or lightly sampled)
-results/     # Outputs and figures
-
-
----
-
 ## Next Steps
 - Incorporate protein sequence or structure embeddings  
 - Perform hyperparameter tuning and cross-validation  
 - Compare against baseline ML models  
-
----
 
 ## Author
 Jess  
